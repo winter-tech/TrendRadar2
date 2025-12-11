@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T23:18:41.796981+08:00",
-  "total_titles_processed": 2237,
+  "generated_at": "2025-12-12T00:22:41.047418+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
@@ -12,14 +12,11 @@
           "url": "https://search.bilibili.com/all?keyword=COS%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E9%81%87%E4%B8%8A%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            6,
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
