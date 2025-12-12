@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T19:15:42.214214+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2025-12-12T20:31:12.323994+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "周杰伦 黑神话 股票分析 flutter ai 风水 命理 八字 塔罗 紫薇",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 20时31分]"
         },
         {
           "title": "COS黑神话悟空遇上齐天大圣",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时19分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 20时31分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时19分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 20时31分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -240,6 +240,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时31分]"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时31分]"
         },
         {
           "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
@@ -447,17 +470,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "夸克AI眼镜紧急增产备货 2026年端侧AI新品有望加速落地",
           "url": "https://www.cls.cn/detail/2227273",
           "source": "财联社热门",
@@ -500,17 +512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -588,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "芬兰国防部：芬兰国防军将从美国采购AIM-120先进中距空对空导弹。",
+          "url": "https://flash.jin10.com/detail/20251212193351490800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
