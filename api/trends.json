@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-12T14:24:48.902171+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-12-12T15:20:03.540847+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "周杰伦 黑神话 股票分析 flutter ai 风水 命理 八字 塔罗 紫薇",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时09分 ~ 15时20分]"
+        },
         {
           "title": "COS黑神话悟空遇上齐天大圣",
           "url": "https://search.bilibili.com/all?keyword=COS%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E9%81%87%E4%B8%8A%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3",
@@ -21,15 +32,17 @@
           "time_info": "[00时22分 ~ 09时09分]"
         },
         {
-          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
-          "url": "https://wallstreetcn.com/articles/3761175",
-          "source": "华尔街见闻",
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 14时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时09分 ~ 15时20分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -48,19 +61,6 @@
           "time_info": "[00时22分 ~ 09时09分]"
         },
         {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 14时24分]"
-        },
-        {
           "title": "动画老牌GAINAX正式破产领盒饭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
           "source": "贴吧",
@@ -73,8 +73,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 14时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 15时20分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 15时20分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -96,19 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时24分]"
-        },
-        {
-          "title": "应用端暖风频吹吗，机构AI投资策略悄然转向",
-          "url": "https://wallstreetcn.com/livenews/3019451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 15时20分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -120,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 15时20分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -131,8 +120,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 15时20分]"
+        },
+        {
+          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
+          "url": "https://www.cls.cn/detail/2227459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 15时20分]"
+        },
+        {
+          "title": "应用端暖风频吹吗，机构AI投资策略悄然转向",
+          "url": "https://wallstreetcn.com/livenews/3019451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
@@ -179,19 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
-          "url": "https://www.cls.cn/detail/2227459",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 14时24分]"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -326,6 +326,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "摩根资管策略师驳斥AI泡沫论，看好明年韩股表现",
+          "url": "https://flash.jin10.com/detail/20251212143355315800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "博通：预计未来六个季度AI芯片销售“至少”730亿美元。",
           "url": "https://wallstreetcn.com/livenews/3019445",
           "source": "华尔街见闻-快讯",
@@ -376,7 +387,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -500,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
+          "url": "https://flash.jin10.com/detail/20251212142602428800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
