@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T18:15:10.121150+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-12-13T19:12:28.852904+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 19时12分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时15分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[07时15分 ~ 19时12分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时11分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 19时12分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -82,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时15分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[07时15分 ~ 19时12分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -110,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时18分 ~ 18时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时18分 ~ 19时12分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -244,11 +244,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
