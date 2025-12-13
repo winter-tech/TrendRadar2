@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T15:14:52.655038+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2025-12-13T16:18:57.196984+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 16时18分]"
+        },
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时15分 ~ 15时14分]"
+          "time_info": "[09时04分 ~ 16时18分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -66,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时14分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时18分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -96,19 +109,6 @@
           "time_info": "[00时18分 ~ 12时21分]"
         },
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 15时14分]"
-        },
-        {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
           "url": "https://www.cls.cn/detail/2227944",
           "source": "财联社热门",
@@ -129,11 +129,12 @@
             9,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 16时18分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -145,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 16时18分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
